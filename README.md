@@ -34,6 +34,9 @@ Membuat tabel Analisa
 
 ![Screenshot 2024-03-01 172902](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/eee5934d-c9f7-4f61-9f86-9edb55d4df22)
 
+![analisa 2](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/0ca3b90c-c9cc-4a0d-9a30-52761c27e714)
+
+
 
 
 
