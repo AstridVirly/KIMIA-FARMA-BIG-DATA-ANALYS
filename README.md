@@ -1,6 +1,7 @@
 # SALES PERFORMANCE DASBOARD
 
 Tools:
+
 👩🏻‍💻 Visual Studio Code
 
 👩🏻‍💻 BigQuery/SQL
@@ -10,4 +11,4 @@ Tools:
 📊 Google Looker Studio
 
 
-projek 
+PROJECT BACKGROUND 
