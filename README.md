@@ -36,6 +36,15 @@ Membuat tabel Analisa
 
 ![analisa 2](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/0ca3b90c-c9cc-4a0d-9a30-52761c27e714)
 
+#  TASK 03
+
+Dashboard Performance Analytics Kimia Farma Business Year 2020-2023
+
+![Dashboard_KF (1)_page-0001](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/efe8f7b8-40bc-4b93-8905-efe417b73269)
+
+https://lookerstudio.google.com/reporting/e0c93a75-2203-47a1-9856-21ae393717a4
+
+
 
 
 
