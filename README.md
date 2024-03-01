@@ -1,4 +1,4 @@
-# SALES PERFORMANCE DASBOARD
+# Dashboard Performance Analytics Kimia Farma Business Year 2020-2023
 
 Tools:
 
@@ -27,7 +27,10 @@ Sebelum memulai pengolahan data, langkah pertama yang harus dilakukan adalah men
 
 4.Membuat relasi entitas antar tabel berdasarkan struktur pada Data
 
+
 # TASK 02
+
 Membuat tabel Analisa
+
 
 
