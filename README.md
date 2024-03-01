@@ -1,1 +1,8 @@
-# KIMIA-FARMA-BIG-DATA-ANALYS
+# SALES PERFORMANCE DASBOARD
+Tools:
+👩🏻‍💻 Visual Studio Code
+👩🏻‍💻 BigQuery/SQL
+🗂️ GitHub
+📊 Google Looker Studio
+
+#Background Projek
