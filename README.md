@@ -32,7 +32,7 @@ Sebelum memulai pengolahan data, langkah pertama yang harus dilakukan adalah men
 
 Membuat tabel Analisa
 
-[Screenshot 2024-03-01 172902](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/2f57bea6-1bb7-4a6c-a518-db4e716b2606)
+![Screenshot 2024-03-01 172902](https://github.com/AstridVirly/KIMIA-FARMA-BIG-DATA-ANALYS/assets/161679280/eee5934d-c9f7-4f61-9f86-9edb55d4df22)
 
 
 
